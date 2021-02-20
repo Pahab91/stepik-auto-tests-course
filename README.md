@@ -1,3 +1,2 @@
-# stepik-auto-tests-course
-# https://stepik.org/lesson/187065/
-# 
+# Этот репозиторий для хранения домашних работ по курсам на степике и не только 
+# https://stepik.org/course/575/syllabus https://stepik.org/course/67/syllabus
